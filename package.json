@@ -1,14 +1,14 @@
 {
   "name": "sigma-md",
   "version": "1.5.3",
-  "description": "A CRAZY WHATSAPP BOT BY Maher Zubair",
+  "description": "A CRAZY WHATSAPP BOT BY Mister Shubham",
   "main": "lib/client.js",
   "type": "commonjs",
   "scripts": {
       "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
       "stop": "pm2 stop SIGMA-MD"
   },
-  "author": "Maher-Zubair",
+  "author": "Mister-Shubham",
   "license": "Apache-2.0",
   "keywords": [
       "bot",
