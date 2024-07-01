@@ -1,6 +1,6 @@
 {
-  "name": "SIGMA-MD WHATSAPP BOT BY MAHER ZUBAIR",
-  "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@InnoxentTech",
+  "name": "SIGMA-MD WHATSAPP BOT BY Mister Shubham",
+  "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium.,
   "logo": "https://telegra.ph/file/e5768d0b5a4441b4e576b.jpg",
   "keywords": [
     "nodejs",
@@ -18,7 +18,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "value": "Mister Shubham"
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
@@ -59,10 +59,10 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923466319114"
+      "value": "916260273863"
     },
     "SESSION_ID": {
-      "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
+      "description": "01_07_2024_SIGMA_MD_debXSQpp_MAHER_ZUBAIR,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
     },
     "OPENAI_API_KEY": {
       "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -90,11 +90,11 @@
     "MZTIT": {
       "description": "Add Your Title, One Word Will BE More Better And BeautiFul",
       "value": "🅼♥︎❚❚♥︎🆉",
-      "required": false
+      "required": true 
     },
     "TIME_ZONE": {
       "description": "Add Your TimeZone. make sure the timzone is correct/Otherwise you will have errors",
-      "value": "Asia/Karachi"
+      "value": "Asia/India"
     },
     "BOT_NAME": {
       "description": "Add Your Own Bot Name",
